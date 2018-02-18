@@ -12,4 +12,5 @@ This project provide some algorithms for Discrete Fourier Transform with python3
 - [VS Code 1.20.1](https://code.visualstudio.com/)
 
 ## Other
+- The test.py file demostrate the original signals and synthesis signals
 - This library is based on the open source book: [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/)
